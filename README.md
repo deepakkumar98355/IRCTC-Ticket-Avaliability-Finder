@@ -11,7 +11,7 @@ step 2: node ticketFnder.js
 
 >> Note : Pupeeter needs node gyp to externally run python and C++ embedded library codes in case getting any error to that node gyp ,java envrionment variable needs to be set accordingly .
 
-Can be enhanced using proxy chain added node library for that already.
+Can be enhanced using proxy chain ,added node library for that already.
 
 ##Usage
 
