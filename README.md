@@ -2,7 +2,7 @@
 Node JS script to automated the IRCTC ticket availability using puppeteer and chromium 
 Sample script to automate any website using XPATH selector to automate user login and grab required data .
 
-setp 1: npm install 
+step 1: npm install 
 
 
 
